@@ -1,4 +1,4 @@
-## Welcome to LSA's 👋
+# Welcome to LSA's 👋
 
 - 🙋‍♀️ LSA is the acronym for Laboratório de Sistemas Autônomos (Autonomous Systems Lab) at PUCRS, Porto Alegre - Brazil. 
 - 🌈 The lab had worked in many projects in the past (we'll enlist all contributions and contributors shortly)
@@ -7,7 +7,7 @@
 - 🧙 This page is an stub! Come later for updates.
 
 
-# We have open positions for students (volunteering and grants):
+## We have open positions for students (volunteering and grants):
 - Web, UX and UI, CI/CD and software automation
 - Artificial Intelligence applications
 - Robotics simulation with ROS and Gazebo ecosystem
