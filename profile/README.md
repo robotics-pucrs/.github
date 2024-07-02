@@ -5,3 +5,11 @@
 - 👩‍💻 Current projects include autonomous aircraft, boats, and cars.
 - 🍿 See `members`to find out who's with us
 - 🧙 This page is an stub! Come later for updates.
+
+
+# We have open positions for students (volunteering and grants):
+- Web, UX and UI, CI/CD and software automation
+- Artificial Intelligence applications
+- Robotics simulation with ROS and Gazebo ecosystem
+- Physics for circuitry and material analysis
+- Microeletronics and Embedded Systems
